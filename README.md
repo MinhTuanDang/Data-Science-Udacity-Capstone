@@ -16,6 +16,7 @@ It was incredible to see how well the CNN algorithm worked in photographs. There
 We will utilize accuracy to calculate the model's performance. The project's requirement is to enhance accuracy, and it also provides very clear information on how effectively we can categorize dog breeds. For example, if we are able to accurately categorize 60 out of 100 photos, then the accuracy is 60%.
 
 The categorical crossentropy loss function is the loss function of a neural network. Softmax activation function is the most common loss function used in neural networks for multi-class classification. It is possible to differentiate the loss function.
+Classification accuracy is the used metric for evaluating models. The reason for its wide use is because it is easy to calculate, easy to interpret, and is a single number to summarize the model's capability.
 ### Steps
 Step 0: Import Datasets
 
