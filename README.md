@@ -17,6 +17,8 @@ We will utilize accuracy to calculate the model's performance. The project's req
 
 The categorical crossentropy loss function is the loss function of a neural network. Softmax activation function is the most common loss function used in neural networks for multi-class classification. It is possible to differentiate the loss function.
 Classification accuracy is the used metric for evaluating models. The reason for its wide use is because it is easy to calculate, easy to interpret, and is a single number to summarize the model's capability.
+### Data
+There is a total of 133 categories of dog breeds and 8351 images of dogs.
 ### Steps
 Step 0: Import Datasets
 
