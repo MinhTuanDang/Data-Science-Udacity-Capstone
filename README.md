@@ -1,9 +1,9 @@
 # Data-Science-Udacity-Capstone
-### Problem Overview
+### Problem statement
 This project is part of the Data Science Nanodegree at Udacity. Convolutional Neural Networks (CNN) are used to classify dog breeds in this study. The algorithm will determine a dog's breed based on a photograph of the canine. If a human photograph is provided, the algorithm will identify the dog breed that most closely resembles it.
-### Summary of the project:
+### Project Overview:
 To categorize dog breeds, we'll use a deep learning method called Convolution neural network. To recognize humans and dogs in the photos, we'll utilize open cv2. After that, we'll create our own CNN architecture. The precision of this CNN model is poor, hence the findings are unconvincing. As a result, we shall employ the notion of transfer learning. That is, we will employ a model that has already been trained. We will utilize the ResNet50 model in our scenario. The accuracy that we obtain here is roughly 80%. We will also utilize a sample of six photographs to test a real-world scenario in order to test our application.
-### Interesting and difficult things in the project:
+### Reflection:
 It was incredible to see how well the CNN algorithm worked in photographs. There are 133 different categories, and CNN excels in predicting them. The most challenging aspect is creating my own CNN algorithm. It's tough to adjust a neural network since there are so many parameters. But owing to udacity's example model, I was able to develop a model that was more than 1% accurate.
 ### Instructions:
 - Clone the repository and navigate to the downloaded folder.
